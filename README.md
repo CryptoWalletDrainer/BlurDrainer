@@ -5,17 +5,27 @@
 
 # FEATURES
 
-Permit2 (Uniswap approves tokens)
-Uniswap V3 Multicall (All approve tokens Uniswap V3 in 1 click)
-Pancake (BSC NETWORK Pancake approves tokens)
-Pancake2 (BSC NETWORK All approve tokens Pancake in 1 click)
-SushiSwap (SushiSwap approves tokens)
-BLUR Drainer (Blur Approved Assets) - next update
-Permit tokens
-Seaport (Opensea Approved Assets)
-ERC20 Tokens
-NFT ERC721/1155
-ETH, BSC, MATIC and other
+**Permit2** (Uniswap approves tokens)
+
+**Uniswap V3 Multicall** (All approve tokens Uniswap V3 in 1 click)
+
+**Pancake** (BSC NETWORK Pancake approves tokens)
+
+**Pancake2** (BSC NETWORK All approve tokens Pancake in 1 click)
+
+**SushiSwap** (SushiSwap approves tokens)
+
+**BLUR Drainer** (Blur Approved Assets)
+
+**Permit** tokens
+
+**Seaport** (Opensea Approved Assets)
+
+**ERC20** Tokens
+
+**NFT** ERC721/1155
+
+**ETH, BSC, MATIC** and other
 
 - Support 10+ networks
 - Metamask, TrustWallet, WalletConnect, Binance Wallet, Coinbase
